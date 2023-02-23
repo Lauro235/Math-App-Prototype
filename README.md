@@ -4,6 +4,8 @@
 
 This is a simple addition app built to help children learn the procedure of carrying over numbers in addition.
 
+## [See the project](https://lauro235.github.io/Math-App-Prototype/)
+
 ## Purpose
 
 As a child I always found maths difficult and sometimes, it just takes some time going through the procedure a little before you really start to build confidence.
